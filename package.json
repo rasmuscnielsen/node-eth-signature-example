@@ -1,0 +1,11 @@
+{
+    "name": "node-sign",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "elliptic": "^6.5.4",
+        "ethereum-public-key-to-address": "^0.0.5",
+        "keccak256": "^1.0.3"
+    }
+}
