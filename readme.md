@@ -3,7 +3,9 @@
 This repository contains sample code for how to
 
 - Generate a personal signature given a private key
-- Verify that same signature in solidity on the Ethereum blockchain
+- Verify that same signature in a solidity contract
+
+Verifying a signature in a contract can be useful for ensuring a piece of information originates from a trusted party, ie your own server.
 
 ## Install this demo locally
 
